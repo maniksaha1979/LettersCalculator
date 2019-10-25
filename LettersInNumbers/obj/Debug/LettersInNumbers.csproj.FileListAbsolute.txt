@@ -1,0 +1,7 @@
+D:\MS-SampleProj\Indue\LettersInNumbers\LettersInNumbers\bin\Debug\LettersInNumbers.exe.config
+D:\MS-SampleProj\Indue\LettersInNumbers\LettersInNumbers\bin\Debug\LettersInNumbers.exe
+D:\MS-SampleProj\Indue\LettersInNumbers\LettersInNumbers\bin\Debug\LettersInNumbers.pdb
+D:\MS-SampleProj\Indue\LettersInNumbers\LettersInNumbers\obj\Debug\LettersInNumbers.csprojAssemblyReference.cache
+D:\MS-SampleProj\Indue\LettersInNumbers\LettersInNumbers\obj\Debug\LettersInNumbers.exe
+D:\MS-SampleProj\Indue\LettersInNumbers\LettersInNumbers\obj\Debug\LettersInNumbers.pdb
+D:\MS-SampleProj\Indue\LettersInNumbers\LettersInNumbers\obj\Debug\LettersInNumbers.csproj.CoreCompileInputs.cache
