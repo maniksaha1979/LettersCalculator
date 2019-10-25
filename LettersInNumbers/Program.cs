@@ -10,10 +10,6 @@ namespace LettersInNumbers
     {
         static void Main(string[] args)
         {
-            //Console.WriteLine("Started- Calculating 1 to 9");
-            //ProcessOneToNine process = new ProcessOneToNine();
-            //int output = process.ProcessAll(9);
-            //Console.WriteLine(output);
             Console.WriteLine("Started- Calculating upto 99");
             ProcessTwentyToNintynine LetterCalculatorUpToNintyNine = new ProcessTwentyToNintynine();
             int output = LetterCalculatorUpToNintyNine.CalculateLetters(99);

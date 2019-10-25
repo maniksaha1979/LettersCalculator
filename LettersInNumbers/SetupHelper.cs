@@ -35,24 +35,7 @@ namespace LettersInNumbers
                 };
         }
 
-        public static Dictionary<Int32, string> CreateWordDictionaryForTenToNineteen()
-        {
-            return new Dictionary<Int32, string>
-                {
-                    {10, "ten"},
-                    {11, "eleven"},
-                    {12, "twelve"},
-                    {13, "thirteen"},
-                    {14, "fourteen"},
-                    {15, "fifteen"},
-                    {16, "sixteen"},
-                    {17, "seventeen"},
-                    {18, "eighteen"},
-                    {19, "nineteen"}
-
-                };
-        }
-
+        
         public static Dictionary<Int32, string> CreateWordDictionaryForTens()
         {
             return new Dictionary<Int32, string>
@@ -68,20 +51,5 @@ namespace LettersInNumbers
                 };
         }
 
-        public static Dictionary<Int32, string> CreateWordDictionaryForGreaterThanTens()
-        {
-            return new Dictionary<Int32, string>
-                {
-                    {100, "hundred"}
-                };
-        }
-
-        public static Dictionary<Int32, string> CreateWordDictionaryForGreaterThanHundred()
-        {
-            return new Dictionary<Int32, string>
-                {
-                    {1000, "thousand"}
-                };
-        }
     }
 }
